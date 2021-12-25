@@ -377,23 +377,10 @@ def animate(ival):
 
 
 yr1 = 2021
-mon = 12
+mon = 11
 # cday = int(input('cday: '))
-cday = 21
-# plot2(backtest(cday))
-# while True:
-#     if cday == 30:
-#         break
-#     try:
-#         plot2(backtest(cday))
-#     except Exception as e:
-#         pass
-#     cday +=1
+cday = 12
 
-'''
-3:15-buy	3:15-sell	Put	Put-stoploss	call	call-stoploss	03:15	points-put	points-call	points	buy-points-sl2-hit
-
-'''
 
 if input('input: ') == 'start':
     # while True:
