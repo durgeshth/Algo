@@ -24,8 +24,8 @@ def login_(dayf):
             "ENCRYPTION_KEY": "UEjzxjrpwi2DVWfOa3GM4L454tH5SYwp"
         }
         global client
-        client = FivePaisaClient(email="bharsatkishor174@gmail.com", passwd="kishor@876",
-                                 dob="19841119", cred=cred)
+        client = FivePaisaClient(email="yewuiuwi@Gmail.com", passwd="Pass@11231",
+                                 dob="456186", cred=cred)
 
         client.login()
 
