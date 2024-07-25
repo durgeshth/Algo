@@ -16,12 +16,12 @@ def login_(dayf):
     df1 = None
     try:
         cred = {
-            "APP_NAME": "5P56798712",
-            "APP_SOURCE": "7311",
-            "USER_ID": "beTMrRQlrqg",
-            "PASSWORD": "IBMfbkUlj65",
-            "USER_KEY": "maNpelRf7OS2yzGI8ToIV5zMgBWmouNA",
-            "ENCRYPTION_KEY": "UEjzxjrpwi2DVWfOa3GM4L454tH5SYwp"
+            "APP_NAME": "234",
+            "APP_SOURCE": "731211",
+            "USER_ID": "aaaeTMrdsadQlrqg",
+            "PASSWORD": "cssMfbsafaskUlj65",
+            "USER_KEY": "m632V5zMgBWmoufsdfA",
+            "ENCRYPTION_KEY": "sdfWfOa3GM4L45dsrfrwfasfwfwegesYwp"
         }
         global client
         client = FivePaisaClient(email="yewuiuwi@Gmail.com", passwd="Pass@11231",
