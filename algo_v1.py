@@ -16,7 +16,7 @@ def login_(dayf):
     df1 = None
     try:
         cred = {
-            "APP_NAME": "234",
+            "APP_NAME": "2354654",
             "APP_SOURCE": "731211",
             "USER_ID": "aaaeTMrdsadQlrqg",
             "PASSWORD": "cssMfbsafaskUlj65",
